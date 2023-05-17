@@ -5,4 +5,4 @@ A machine learning model built using the Support Vector Machine Algorithm that d
 
 4=Malignant
 
-Link to Application: [https://riyabharath24-cancer-cell-detection-cancer-app-ichjg3.streamlit.app/]
+Link to Application: https://riyabharath24-cancer-cell-detection-cancer-app-ichjg3.streamlit.app/
